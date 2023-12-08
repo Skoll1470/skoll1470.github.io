@@ -311,6 +311,12 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #2F3C4F;
   background: #bb9db2;
 }
+.fh5co-bg-contact {
+  background: #fff;
+}
+.fh5co-bg-contact .fh5co-heading h2 {
+  color: #bb9db2 !important;
+}
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
 }
@@ -713,7 +719,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-position: center center;
   background-repeat: no-repeat;
   position: relative;
-  height: 270px;
+  height: 300px;
   width: 100%;
   display: table;
   overflow: hidden;
@@ -801,8 +807,8 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-started .btn {
   height: 54px;
   border: none !important;
-  background: #fff;
-  color: #bb9db2;
+  background: #bb9db2;
+  color: #fff;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
@@ -1289,6 +1295,11 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0;
+}
+
+.text-hyperlink{
+  color:#2F3C4F;
+  text-decoration: underline;
 }
 
 /*# sourceMappingURL=style.css.map */
