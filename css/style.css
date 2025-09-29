@@ -315,7 +315,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #fff;
 }
 .fh5co-bg-contact .fh5co-heading h2 {
-  color: #bb9db2 !important;
+  color: #000 !important;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -808,7 +808,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 54px;
   border: none !important;
   background: #bb9db2;
-  color: #fff;
+  color: #000;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
